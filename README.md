@@ -3,7 +3,7 @@
 
 ## Printcore
 
-[![Watch the video](![]/Images/videoPrintcore.PNG)](https://www.youtube.com/watch?v=Ln_tMz8Dwd0&feature=youtu.be)
+[![Watch the video](![](../Images/videoPrintcore.PNG)](https://www.youtube.com/watch?v=Ln_tMz8Dwd0&feature=youtu.be)
 
 ## Calibrar cama
 
