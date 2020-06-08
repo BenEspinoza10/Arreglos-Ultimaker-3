@@ -3,7 +3,7 @@
 
 ## Printcore
 
-### Desarmar Princore
+### Desarmar Printcore
 
 
 En el siguiente video podrán encontrar un tutorial sobre como desarmar el printcore de una Ultimaker 3: 
